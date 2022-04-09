@@ -1,0 +1,80 @@
+C:\Users\Sami\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\GetRequestTest.exe
+C:\Users\Sami\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\GetRequestTest.deps.json
+C:\Users\Sami\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\GetRequestTest.runtimeconfig.json
+C:\Users\Sami\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\GetRequestTest.runtimeconfig.dev.json
+C:\Users\Sami\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\GetRequestTest.dll
+C:\Users\Sami\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ref\GetRequestTest.dll
+C:\Users\Sami\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\GetRequestTest.pdb
+C:\Users\Sami\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sami\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.AssemblyInfoInputs.cache
+C:\Users\Sami\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.AssemblyInfo.cs
+C:\Users\Sami\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.csproj.CoreCompileInputs.cache
+C:\Users\Sami\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.dll
+C:\Users\Sami\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ref\GetRequestTest.dll
+C:\Users\Sami\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.pdb
+C:\Users\Sami\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.genruntimeconfig.cache
+C:\Users\Sami\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.csproj.AssemblyReference.cache
+C:\Users\Sami\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\Sami\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\System.Management.dll
+C:\Users\Sami\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Management.dll
+C:\Users\Sami\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.csproj.CopyComplete
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\GetRequestTest.exe
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\GetRequestTest.deps.json
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\GetRequestTest.runtimeconfig.json
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\GetRequestTest.runtimeconfig.dev.json
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\GetRequestTest.dll
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ref\GetRequestTest.dll
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\GetRequestTest.pdb
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\System.CodeDom.dll
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\System.Management.dll
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Management.dll
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.csproj.AssemblyReference.cache
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.AssemblyInfoInputs.cache
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.AssemblyInfo.cs
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.csproj.CoreCompileInputs.cache
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.csproj.CopyComplete
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.dll
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ref\GetRequestTest.dll
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.pdb
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.genruntimeconfig.cache
+C:\Users\sami_\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\GetRequestTest.exe
+C:\Users\sami_\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\GetRequestTest.deps.json
+C:\Users\sami_\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\GetRequestTest.runtimeconfig.json
+C:\Users\sami_\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\GetRequestTest.runtimeconfig.dev.json
+C:\Users\sami_\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\GetRequestTest.dll
+C:\Users\sami_\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ref\GetRequestTest.dll
+C:\Users\sami_\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\GetRequestTest.pdb
+C:\Users\sami_\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\sami_\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\System.Management.dll
+C:\Users\sami_\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Management.dll
+C:\Users\sami_\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.csproj.AssemblyReference.cache
+C:\Users\sami_\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sami_\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.AssemblyInfoInputs.cache
+C:\Users\sami_\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.AssemblyInfo.cs
+C:\Users\sami_\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.csproj.CoreCompileInputs.cache
+C:\Users\sami_\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.csproj.CopyComplete
+C:\Users\sami_\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.dll
+C:\Users\sami_\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ref\GetRequestTest.dll
+C:\Users\sami_\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.pdb
+C:\Users\sami_\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\SoftWare\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.genruntimeconfig.cache
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\Codes\SoftWare\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\GetRequestTest.exe
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\Codes\SoftWare\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\GetRequestTest.deps.json
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\Codes\SoftWare\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\GetRequestTest.runtimeconfig.json
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\Codes\SoftWare\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\GetRequestTest.runtimeconfig.dev.json
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\Codes\SoftWare\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\GetRequestTest.dll
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\Codes\SoftWare\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ref\GetRequestTest.dll
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\Codes\SoftWare\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\GetRequestTest.pdb
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\Codes\SoftWare\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\System.CodeDom.dll
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\Codes\SoftWare\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\System.Management.dll
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\Codes\SoftWare\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Management.dll
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\Codes\SoftWare\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.csproj.AssemblyReference.cache
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\Codes\SoftWare\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\Codes\SoftWare\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.AssemblyInfoInputs.cache
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\Codes\SoftWare\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.AssemblyInfo.cs
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\Codes\SoftWare\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.csproj.CoreCompileInputs.cache
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\Codes\SoftWare\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.csproj.CopyComplete
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\Codes\SoftWare\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.dll
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\Codes\SoftWare\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ref\GetRequestTest.dll
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\Codes\SoftWare\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.pdb
+E:\Dropbox\Skola\Universitet\DATATEKNIK\Projektkurs 2DT304\2dt304-project\Codes\SoftWare\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\GetRequestTest.genruntimeconfig.cache

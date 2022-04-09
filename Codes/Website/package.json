@@ -1,0 +1,45 @@
+{
+  "name": "a02-crud-code-snippets",
+  "version": "1.0.0",
+  "description": "Template repo for the assignment.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon  app.js",
+    "htmlhint": "npx htmlhint \"./views/**/*.hbs\" || exit 0",
+    "lint": "standard \"./**/*.js\" || exit 0",
+    "lint:fix": "standard \"./**/*.js\" --fix || exit 0",
+    "stylelint": "npx stylelint \"**/*.css\" || exit 0",
+    "stylelint:fix": "npx stylelint \"**/*.css\" --fix || exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.lnu.se:1dv523/student/mm223kk/a02-crud-code-snippets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "chart.js": "^3.7.1",
+    "cookie": "^0.4.2",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-hbs": "^2.4.0",
+    "express-session": "^1.17.2",
+    "htmlhint": "^1.1.2",
+    "http": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "mongoose": "^6.2.3",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15",
+    "snazzy": "^9.0.0",
+    "socket.io": "^4.4.1",
+    "standard": "^16.0.4"
+  },
+  "devDependencies": {
+    "stylelint": "^14.6.0",
+    "stylelint-config-standard": "^25.0.0"
+  }
+}

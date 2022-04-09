@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "khQpNdM6CMWKtUIBMRgdFfp24fcno0wWFtRjTLcs22am1PqbhBIJH/FT6yZwFTqMfIoE/JOs9+p9MW6G4nEI1A==",
+  "success": true,
+  "projectFilePath": "E:\\Dropbox\\Skola\\Universitet\\DATATEKNIK\\Projektkurs 2DT304\\2dt304-project\\Codes\\SoftWare\\ConsoleApp4\\ConsoleApp4\\GetRequestTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sami\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Sami\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\Sami\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sami\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sami\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Sami\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Sami\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
